@@ -1,3 +1,4 @@
+//Hacer un programa que encuentre el numero que no cumple con el patrón de los demás numeros del array(par/impar)
 function findOutlier(integers){
     var acumulado=0
     var resultado
